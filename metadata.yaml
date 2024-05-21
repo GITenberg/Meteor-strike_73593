@@ -1,0 +1,32 @@
+_repo: Meteor-strike_73593
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Westlake, Donald E.
+    aliases:
+    - Westlake, D. E. (Donald E.)
+    - Westlake, Donald Edwin Edmund
+    birthdate: 1933
+    deathdate: 2008
+    gutenberg_agent_id: '32451'
+    url: http://www.gutenberg.org/2009/agents/32451
+    wikipedia: http://en.wikipedia.org/wiki/Donald_E._Westlake
+description: ''
+gutenberg_issued: '2024-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73593'
+language: en
+pgterms:marc905: 20240225154117westlake
+pgterms:marc906: '1961'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1961.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Meteor strike!
+url: http://www.gutenberg.org/ebooks/73593
