@@ -1,5 +1,8 @@
 _repo: Meteor-strike_73593
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73593-h/images/cover.jpg
 creator:
   author:
     agent_name: Westlake, Donald E.
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32451
     wikipedia: http://en.wikipedia.org/wiki/Donald_E._Westlake
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73593#Meteor-strike
 gutenberg_issued: '2024-05-10'
 gutenberg_type: Text
 identifiers:
